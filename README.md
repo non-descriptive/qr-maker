@@ -9,5 +9,7 @@ cargo install --git https://github.com/non-descriptive/qr-make
 
 # Usage
 ```
-qr-maker --data="Hello,world" --out="hello.png"
+qr-maker --data="Hello, World!" --out="hello.png"
 ```
+
+![hello](hello.png)
