@@ -1,0 +1,9 @@
+[package]
+name = "qr-maker"
+version = "0.1.0"
+authors = ["Dmitry.Kozlovtsev <unlockmehdp@gmail.com>"]
+
+[dependencies]
+argparse="*"
+qrcode = "0.4"
+image = "0.13.0"
