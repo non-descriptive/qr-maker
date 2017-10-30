@@ -2,6 +2,12 @@
 name = "qr-maker"
 version = "0.1.0"
 authors = ["Dmitry.Kozlovtsev <unlockmehdp@gmail.com>"]
+description = "Simple CLI for QR making"
+repository = "https://github.com/non-descriptive/qr-maker"
+readme = "README.md"
+license-file = "LICENSE"
+keywords = ["qrcode"]
+category = ["command-line-utilities"]
 
 [dependencies]
 argparse="*"
