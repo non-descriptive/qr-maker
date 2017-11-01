@@ -1,5 +1,6 @@
 # QR-maker
 [![Build Status](https://travis-ci.org/non-descriptive/qr-maker.svg?branch=master)](https://travis-ci.org/non-descriptive/qr-maker)
+
 Simple CLI QR-code maker.
 
 # Installation
