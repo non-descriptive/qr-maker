@@ -5,11 +5,15 @@ authors = ["Dmitry.Kozlovtsev <unlockmehdp@gmail.com>"]
 description = "Simple CLI for QR making"
 repository = "https://github.com/non-descriptive/qr-maker"
 readme = "README.md"
+license = "MIT"
 license-file = "LICENSE"
 keywords = ["qrcode"]
 category = ["command-line-utilities"]
 
+[badges]
+travis-ci = { repository = "non-descriptive/qr-maker", branch = "master" }
+
 [dependencies]
-argparse="*"
+argparse="0.2.1"
 qrcode = "0.4"
 image = "0.13.0"
